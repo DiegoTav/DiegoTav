@@ -2,9 +2,9 @@
 ##
 Atualmente estou:
   - 🔭 Cursando Sistemas de Informação na UFPB - Campus IV.
-  - ☕ Familiarizado com a linguagem Java.
-  - 👀 Olhando outras linguages.
-  - 🔎 Em busca de uma área para me especializar.
+  - ☕ Familiarizado com Java.
+  - 📖 Estudando Front End.
+  - 🚀 Full Stack.
 
 <div align="center">
   <a href="https://github.com/DiegoTav">
