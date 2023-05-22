@@ -2,7 +2,7 @@
 ##
 Atualmente estou:
   - 🔭 Cursando Sistemas de Informação na UFPB - Campus IV.
-  - ☕ Familiarizado com Java.
+  - 👀 Tenho interesse nas linguagens JAVA, HTML, CSS.
   - 📖 Estudando Front End.
   
 
