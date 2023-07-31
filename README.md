@@ -2,8 +2,8 @@
 ##
 Atualmente estou:
   - 🔭 Cursando Sistemas de Informação na UFPB - Campus IV.
-  - 👀 Tenho interesse nas linguagens JAVA, HTML, CSS.
-  - 📖 Estudando Front End.
+  - 👀 Tenho interesse nas áreas de back-end e Front-end.
+  - 📖 Estudando tecnologias voltadas para o back-end.
   
 
 <div align="center">
@@ -19,7 +19,5 @@ Atualmente estou:
  <a href="https://discord.com/users/525393402766950421" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sdiego14599@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-tavares-124066188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- ![Snake animation](https://github.com/DiegoTav/DiegoTav/blob/output/github-contribution-grid-snake.svg)
 
 </div>
